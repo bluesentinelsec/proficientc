@@ -1,6 +1,6 @@
 # Chapter 1 - The C Compiler System
 
-No source code in this chapter; just general remarks about C, standards, and development tools.
+No source code in this chapter; just general remarks about C, standards, and developmentq    tools.
 
 ## Microsoft C Compiler
 

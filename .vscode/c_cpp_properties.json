@@ -5,15 +5,16 @@
             "name": "DOS16",
             "includePath": [
                 "${workspaceFolder}/src/**",
-                "c:/watcom/h/**",
-                "/usr/bin/watcom/h/**"
+                "C:\\WATCOM\\h"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE",
                 "_M_I86",
-                "far="
+                "far",
+                "__watcall",
+                "__FUNCTION_DATA_ACCESS"
             ],            
             "cStandard": "c89",
             "cppStandard": "c++98",
@@ -23,8 +24,7 @@
             "name": "DOS32",
             "includePath": [
                 "${workspaceFolder}/src/**",
-                "c:/watcom/h/**",
-                "/usr/bin/watcom/h/**"
+                "C:\\WATCOM\\h"
             ],            
             "defines": [
                 "_DEBUG",
